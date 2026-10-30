@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/goban-jikaawase",
  "yomi": "ごばんじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（5番）",
+  "era": "未詳",
+  "author": "詠 香川景樹（1768〜1843）／判 木下幸文（1779〜1821）",
+  "desc": "香川景樹の歌を左右に合わせた5番の自歌合に、同門の木下幸文が判詞を加えたもの。鶯を題とする。"
+ },
  "editions": [
   {
    "pid": "993388",
